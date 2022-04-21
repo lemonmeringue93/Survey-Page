@@ -1,0 +1,9 @@
+body {
+  background-image: url("https://images.pexels.com/photos/1028598/pexels-photo-1028598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  opacity: 1;
+  background-size: cover;
+}
+
+.text {
+  font-family: Arial, Helvetica, sans-serif;
+}
